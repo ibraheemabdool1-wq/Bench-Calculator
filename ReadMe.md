@@ -1,0 +1,1 @@
+This program calculates how to load a barbell based on a user’s total weight input. It subtracts the standard 45 lb bar, splits the remaining weight evenly between both sides, and determines how many 45, 25, 10, and 5 lb plates are needed per side. It also reports any leftover weight that cannot be matched.
